@@ -4,5 +4,4 @@ itsdangerous==1.1.0
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
 protobuf==3.20
-opencv-python==4.5.4.58
-libgl1-mesa-glx==4.3.0.36
+opencv-python-headless==4.5.3.56
