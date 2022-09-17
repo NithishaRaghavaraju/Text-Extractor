@@ -1,10 +1,18 @@
--f https://download.pytorch.org/whl/torch_stable.html
 Flask==1.1.1
 gunicorn==19.9.0
 itsdangerous==1.1.0
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
 protobuf==3.20
-opencv-python-headless==4.5.3.56
-torch==1.11.0+cpu
-torchvision==0.12.0+cpu
+torch
+torchvision>=0.5
+opencv-python-headless<=4.5.4.60
+scipy
+numpy
+Pillow
+scikit-image
+python-bidi
+PyYAML
+Shapely
+pyclipper
+ninja
