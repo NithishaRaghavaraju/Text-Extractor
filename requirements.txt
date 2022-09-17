@@ -5,4 +5,4 @@ MarkupSafe==1.1.1
 Werkzeug==0.15.5
 protobuf==3.20
 opencv-python-headless==4.5.3.56
-easyocr==1.8.0
+easyocr==1.1.3
